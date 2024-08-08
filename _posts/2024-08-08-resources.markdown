@@ -1,0 +1,14 @@
+## Resources for Computational Structural Biology
+
+## Running AlphaFold
+Australian AlphaFold Service [research email required]: https://site.usegalaxy.org.au/request/access/alphafold. Application to use the BioCommon's AlphaFold service paid for nationally for scientific use.
+
+## AlphaFold Guides
+- AlphaFold EBI Training [3 hrs]: https://www.ebi.ac.uk/training/online/courses/alphafold/. Guide to how AlphaFold functions and practical use for bioscience researchers  
+
+## Massive pre-computed protein structure databases
+- AlphaFold Protein Structure Database [200 million structures]: https://alphafold.ebi.ac.uk/
+- ESM Metagenomic Atlas [772 million structures]: https://esmatlas.com/
+
+## Structure searches 
+- Foldseek: https://search.foldseek.com/search. Structure searches through converting 3D info -> 1D string
